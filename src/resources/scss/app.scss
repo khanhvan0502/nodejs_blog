@@ -1,0 +1,12 @@
+// .test{
+//     font-size: 1rem;
+//     background-color: red;
+//     width: 100px;
+// }
+@import 'variables';
+h1{
+    color: $red_color;
+}
+h2{
+    color: gray;
+}
